@@ -1,2 +1,2 @@
-# basic-php
+# php
 didikan pak fajar
